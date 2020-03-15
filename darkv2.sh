@@ -8,6 +8,9 @@ bu='\e[1;30m' #abu abu
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #oren
 clear
+python pass.py
+sleep 2
+clear
 echo $pu"█████████"
 echo $pu"█▄█████▄█   "$me"●"$cy"▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"$ku"๑۩۩๑"$cy"▬▬▬▬▬▬▬▬▬▬▬▬▬▬"$me"●"
 echo $pu"█"$me" ▼▼▼▼▼"$pu"  - _   "$ku"┬ ┬┌─┐┬┌─  ┌─┐┌─┐┌─┐┌┐ ┬ ┬┬┌─"
