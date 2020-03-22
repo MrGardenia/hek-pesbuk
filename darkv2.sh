@@ -9,6 +9,9 @@ ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #oren
 clear
 python pass.py
+sleep 1
+clear
+python2 hasil.py
 sleep 2
 clear
 echo $pu"█████████"
